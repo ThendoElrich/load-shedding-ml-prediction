@@ -1,0 +1,23 @@
+{
+  "binary": {
+    "accuracy": 0.8972023422251139,
+    "f1_weighted": 0.8972023422251139,
+    "roc_auc": 0.9345099826326327,
+    "threshold": 0.029560729494743376
+  },
+  "multiclass": {
+    "Random Forest": {
+      "accuracy": 0.7583604424202993,
+      "f1_weighted": 0.6541441069230377
+    },
+    "HistGradientBoosting": {
+      "accuracy": 0.7794404684450228,
+      "f1_weighted": 0.714555852525834
+    },
+    "XGBoost": {
+      "accuracy": 0.7189329863370202,
+      "f1_weighted": 0.6728347514528088
+    }
+  },
+  "best_multiclass": "HistGradientBoosting"
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "feature": "rsa_contracted_forecast",
+    "importance": 0.5655030800821276
+  },
+  {
+    "feature": "dispatchable_generation",
+    "importance": 0.4232032854209386
+  },
+  {
+    "feature": "day_of_year",
+    "importance": 0.024640657084188673
+  },
+  {
+    "feature": "temperature_2m_roll_min_24h",
+    "importance": 0.014579055441478443
+  },
+  {
+    "feature": "original_res_forecast_before_lockdown",
+    "importance": 0.012731006160164206
+  },
+  {
+    "feature": "international_imports",
+    "importance": 0.012320328542094337
+  },
+  {
+    "feature": "hydro_water_sco",
+    "importance": 0.008829568788501144
+  },
+  {
+    "feature": "non_comm_sentout",
+    "importance": 0.008829568788501144
+  },
+  {
+    "feature": "total_pclf",
+    "importance": 0.007802874743326296
+  },
+  {
+    "feature": "drakensberg_gen_unit_hours",
+    "importance": 0.007597535934291537
+  },
+  {
+    "feature": "hydro_water_generation",
+    "importance": 0.0053388090349076045
+  },
+  {
+    "feature": "residual_demand_roll_mean_24h",
+    "importance": 0.004928131416837909
+  },
+  {
+    "feature": "hour",
+    "importance": 0.004517453798768215
+  },
+  {
+    "feature": "wind_speed_10m_roll_mean_6h",
+    "importance": 0.004312114989733105
+  },
+  {
+    "feature": "residual_demand_roll_mean_6h",
+    "importance": 0.0041067761806983455
+  },
+  {
+    "feature": "residual_demand_lag1",
+    "importance": 0.0039014373716637616
+  },
+  {
+    "feature": "residual_demand_roll_min_24h",
+    "importance": 0.003901437371663235
+  },
+  {
+    "feature": "palmiet_gen_unit_hours",
+    "importance": 0.0032854209445586065
+  },
+  {
+    "feature": "residual_forecast",
+    "importance": 0.003080082135524022
+  },
+  {
+    "feature": "ios_excl_ils_and_mlr",
+    "importance": 0.0030800821355236718
+  }
+]
